@@ -22,7 +22,7 @@ if __name__ =='__main__':
     app = Main(root)
     app.pack()
     root.title('HouseHold finance')
-    root.geometry('650x450+300+200')
+    root.geometry('550x350+300+200')
     root.resizable(False, False)
 
     root.mainloop()
